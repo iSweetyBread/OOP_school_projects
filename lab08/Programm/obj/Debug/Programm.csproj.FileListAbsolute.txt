@@ -1,0 +1,14 @@
+D:\Projects\C#\lab081\Programm\bin\Debug\Programm.exe.config
+D:\Projects\C#\lab081\Programm\bin\Debug\Programm.exe
+D:\Projects\C#\lab081\Programm\bin\Debug\Programm.pdb
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.frmAdd.resources
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.frmMain.resources
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.Properties.Resources.resources
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.csproj.GenerateResource.cache
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.exe
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.pdb
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.frmRemove.resources
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.frmUpdate.resources
+D:\Projects\C#\lab081\Programm\obj\Debug\Programm.frmSearch.resources
